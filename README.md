@@ -14,7 +14,7 @@
 </div>
 
 <br/>
-
+<!-- Imagens do linkedin e instagram retiradas no dev.to -->
 <div align="left">
   <a href="https://www.linkedin.com/in/alexandre-zenas-819b3163/" target="_blank" >
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="stats         graph"  />
@@ -72,7 +72,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32" alt="express logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="32" alt="tailwindcss logo"  />
+  <!-- imagens do tailwind retirada de: https://commons.wikimedia.org/wiki/File:Tailwind_CSS_Logo.svg 
+       img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="32" alt="tailwindcss logo"  /> -->
+  <!--   icon retirado no: https://icons8.com.br/icons/set/tailwind-css -->
+  <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" height="32" alt="tailwindcss logo"  />
+  
 </div>
 
 ###
