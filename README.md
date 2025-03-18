@@ -6,7 +6,7 @@
 
 ###
 
-* <p align="left">📚 I'm currently studying API Development using <Strong>NodeJS</Strong> and <Strong>Java</Strong>. <br>
+* <p align="left">📚 I'm currently studying API Development using <Strong>Spring</Strong> and <Strong>Java</Strong>. <br>
 *  🔭 I created a development and marketing agency to put into practice everything I learned studying front end, but I'm looking for new challenges and looking for an opportunity in JAVA.</p>
 
 <div align="left">
